@@ -2,6 +2,14 @@
 
 This repository contains exercises I completed while following the [Learn Go: The Complete Bootcamp Course (Golang)](https://www.udemy.com/course/learn-go-the-complete-bootcamp-course-golang/).
 
+## 🔗 Example Projects from the Course
+Before diving into the exercises, here are some example projects I developed during the course:
+
+-   [ascii-clock-example](https://github.com/karagultm/ascii-clock-example) ⏰ Digital clock in console  
+-   [ball-game-example](https://github.com/karagultm/ball-game-example) 🏐 A small ball game  
+-   [file-finder-example](https://github.com/karagultm/file-finder-example) 📂 File finder tool  
+-   [spam-masker-example](https://github.com/karagultm/spam-masker-example) 🔒 URL masking tool  
+
 ## 📂 Contents
 
 -   `function exercises/` → Function practices  
@@ -19,15 +27,6 @@ This repository contains exercises I completed while following the [Learn Go: Th
 These projects are part of the knowledge I gained after completing the course.
 
 ![Udemy Certificate](go_sertifikası.jpg)
-
-## 🔗 Other Example Projects
-
-During the course, I also developed the following example projects:
-
--   [ascii-clock-example](https://github.com/karagultm/ascii-clock-example) ⏰ Digital clock in console  
--   [ball-game-example](https://github.com/karagultm/ball-game-example) 🏐 A small ball game  
--   [file-finder-example](https://github.com/karagultm/file-finder-example) 📂 File finder tool  
--   [spam-masker-example](https://github.com/karagultm/spam-masker-example) 🔒 URL masking tool  
 
 ---
 
